@@ -22,6 +22,11 @@ namespace GoWithTheFlow
                 {
                     Console.WriteLine("Replace bulb.");
                 }
+                else
+                {
+                    Console.WriteLine("Repair Lamp.");
+                }
             }
+        }
     }
 }
