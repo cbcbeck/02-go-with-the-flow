@@ -27,6 +27,15 @@ namespace GoWithTheFlow
                     Console.WriteLine("Repair Lamp.");
                 }
             }
+            else
+            {
+                Console.WriteLine("Plug in lamp.");
+            }
+
+
+
+
+            Console.ReadKey();
         }
     }
 }
